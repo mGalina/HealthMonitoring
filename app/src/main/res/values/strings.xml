@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Комплексная система мониторинга здоровья</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="age">Возраст</string>
+    <string name="pressure_recording">Запись давления</string>
+    <string name="vital_record">Запись жизненных показателей</string>
+    <string name="save">Сохранить</string>
+    <string name="top_pressure">Верхнее давление</string>
+    <string name="lower_pressure">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="health_monitoring">Комплексная система мониторинга здоровья</string>
+    <string name="error">Введены неправильные данные</string>
+    <string name="save_date">Данные сохранены</string>
+    <string name="log_save">Нажатие на кнопку Сохранить</string>
+    <string name="exception">Получено исключение</string>
+    <string name="pressure_switching">Переключение на экран записи давления</string>
+    <string name="vital_switching">Переключение на экран записи жизненных показателей</string>
+</resources>
